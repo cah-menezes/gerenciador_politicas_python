@@ -1,8 +1,5 @@
 """Gerencia políticas de segurança usando herança e polimorfismo."""
 
-"""
-6. For percorrendo a lista e chamando aplicar()"""
-
 #Classe
 class Politica: #Classe base
     def __init__ (self, nome, versao, status):
